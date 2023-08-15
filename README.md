@@ -5,9 +5,11 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio de datos de
 ## Requisitos
 
 - Python 3.7+
+
 - Librerías: pandas, seaborn, matplotlib, datetime, time, pycoingecko
 
 ## Descripción
+
 
 El mercado de las criptomonedas ha experimentado un crecimiento exponencial y una creciente adopción a nivel mundial. Este proyecto simula el papel de un Analista de Datos en una empresa financiera que busca comprender mejor el comportamiento y la evolución de las criptomonedas estables. Se utiliza la API CoinGecko para obtener y analizar datos relevantes.
 
