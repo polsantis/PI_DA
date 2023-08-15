@@ -1,6 +1,5 @@
-# PI_DA
-
 # Proyecto de Análisis de Datos de Criptomonedas Estables
+
 
 Este proyecto tiene como objetivo realizar un análisis exploratorio de datos de criptomonedas estables (stablecoins) utilizando la API CoinGecko. Se exploran datos relacionados con las categorías de criptomonedas, la capitalización de mercado y los precios actuales de las 10 principales criptomonedas estables.
 
